@@ -1,0 +1,433 @@
+{
+  "productos": [
+    {
+      "codigo": "P-CLA-001",
+      "nombre": "CLAVOS",
+      "descripcion": "CLAVOS DE ACERO",
+      "precio_compra": "90.00",
+      "precio_mayorista": "120.00",
+      "precio_minorista": "150.00",
+      "imageURL": "https://www.pronor.com.ar/images/1666877124740.jpg",
+      "dimensiones": "10CM",
+      "peso": "1G",
+      "material": "ACERO",
+      "color": "METAL",
+      "paisOrigen": "ARGENTINA",
+      "marca": {
+        "codigo": "M-STE-001",
+        "nombre": "steel"
+      },
+      "categorias": [
+        {
+          "codigo": "C-CLA-001",
+          "nombre": "CLAVOS"
+        },
+        {
+          "codigo": "C-FER-001",
+          "nombre": "FERRETERIA"
+        }
+      ],
+      "ofertas": [
+        {
+          "codigo": "O-CLA-001",
+          "nombre": "CLAVOS 10",
+          "descripcion": "string",
+          "precio_oferta": 140,
+          "puntos": 14,
+          "activo": true
+        }
+      ],
+      "descuentos": [
+        {
+          "codigo": "D-CLA-001",
+          "nombre": "CLAVOS DESC",
+          "descripcion": "AAAAA",
+          "precio_min": 105,
+          "activo": true
+        }
+      ],
+      "activo": true
+    },
+    {
+      "codigo": "P-TUB-002",
+      "nombre": "TUBERIA",
+      "descripcion": "TUBERIA DE PVC",
+      "precio_compra": "40.00",
+      "precio_mayorista": "60.00",
+      "precio_minorista": "70.00",
+      "imageURL": "https://www.mersrl.com.ar/img/subgroups/15/medium_tubos-de-pvc-clase-10-junta-elastica-9294.jpg",
+      "dimensiones": "5M",
+      "peso": "2KG",
+      "material": "PVC",
+      "color": "BLANCO",
+      "paisOrigen": "MEXICO",
+      "marca": {
+        "codigo": "M-PVC-001",
+        "nombre": "plastic"
+      },
+      "categorias": [
+        {
+          "codigo": "C-TUB-001",
+          "nombre": "TUBERIAS"
+        },
+        {
+          "codigo": "C-CON-001",
+          "nombre": "CONSTRUCCION"
+        }
+      ],
+      "ofertas": [
+        {
+          "codigo": "O-TUB-001",
+          "nombre": "TUBERIA 5M",
+          "descripcion": "string",
+          "precio_oferta": 70,
+          "puntos": 7,
+          "activo": true
+        }
+      ],
+      "descuentos": [
+        {
+          "codigo": "D-TUB-001",
+          "nombre": "TUBERIA DESC",
+          "descripcion": "BBBBB",
+          "precio_min": 65,
+          "activo": true
+        }
+      ],
+      "activo": true
+    },
+    {
+      "codigo": "P-LLA-003",
+      "nombre": "LLAVE INGLESA",
+      "descripcion": "LLAVE AJUSTABLE",
+      "precio_compra": "70.00",
+      "precio_mayorista": "100.00",
+      "precio_minorista": "110.00",
+      "imageURL": "https://www.wurth.com.ar/blog/wp-content/uploads/2022/10/90715-221-12-scaled-e1665593239403.jpg",
+      "dimensiones": "15CM",
+      "peso": "500G",
+      "material": "ACERO",
+      "color": "PLATA",
+      "paisOrigen": "ESPAÑA",
+      "marca": {
+        "codigo": "M-ACR-002",
+        "nombre": "acero"
+      },
+      "categorias": [
+        {
+          "codigo": "C-HER-001",
+          "nombre": "HERRAMIENTAS"
+        },
+        {
+          "codigo": "C-MAN-001",
+          "nombre": "MANUALES"
+        }
+      ],
+      "ofertas": [
+        {
+          "codigo": "O-LLA-001",
+          "nombre": "LLAVE 15CM",
+          "descripcion": "string",
+          "precio_oferta": 110,
+          "puntos": 11,
+          "activo": true
+        }
+      ],
+      "descuentos": [
+        {
+          "codigo": "D-LLA-001",
+          "nombre": "LLAVE DESC",
+          "descripcion": "CCCCC",
+          "precio_min": 100,
+          "activo": true
+        }
+      ],
+      "activo": true
+    },
+    {
+      "codigo": "P-MOT-004",
+      "nombre": "MOTOSIERRA ELECTRICA",
+      "descripcion": "MOTOSIERRA ELECTRICA",
+      "precio_compra": "200.00",
+      "precio_mayorista": "250.00",
+      "precio_minorista": "300.00",
+      "imageURL": "https://petenattiar.vtexassets.com/arquivos/ids/203455/MOTOSIERRA-ELECTRICA-ByD-GK1740-1850W-ESPADA-40CM.jpg?v=637932450648700000",
+      "dimensiones": "50CM",
+      "peso": "5KG",
+      "material": "ACERO",
+      "color": "VERDE",
+      "paisOrigen": "ALEMANIA",
+      "marca": {
+        "codigo": "M-GER-001",
+        "nombre": "german"
+      },
+      "categorias": [
+        {
+          "codigo": "C-MOT-001",
+          "nombre": "MOTOSIERRAS"
+        },
+        {
+          "codigo": "C-JAR-001",
+          "nombre": "JARDINERIA"
+        }
+      ],
+      "ofertas": [
+        {
+          "codigo": "O-MOT-001",
+          "nombre": "MOTOSIERRA 50CM",
+          "descripcion": "string",
+          "precio_oferta": 280,
+          "puntos": 28,
+          "activo": true
+        }
+      ],
+      "descuentos": [
+        {
+          "codigo": "D-MOT-001",
+          "nombre": "MOTOSIERRA DESC",
+          "descripcion": "DDDDD",
+          "precio_min": 220,
+          "activo": true
+        }
+      ],
+      "activo": true
+    },
+    {
+      "codigo": "P-AMO-005",
+      "nombre": "AMOLADORA",
+      "descripcion": "AMOLADORA",
+      "precio_compra": "120.00",
+      "precio_mayorista": "150.00",
+      "precio_minorista": "180.00",
+      "imageURL": "https://pintureriasagitario.com.ar/wp-content/uploads/2023/08/GW850.jpg",
+      "dimensiones": "20CM",
+      "peso": "3KG",
+      "material": "METAL",
+      "color": "ROJO",
+      "paisOrigen": "CHINA",
+      "marca": {
+        "codigo": "M-CHI-001",
+        "nombre": "china"
+      },
+      "categorias": [
+        {
+          "codigo": "C-AMA-001",
+          "nombre": "AMOLADORAS"
+        },
+        {
+          "codigo": "C-HER-002",
+          "nombre": "HERRAMIENTAS ELECTRICAS"
+        }
+      ],
+      "ofertas": [
+        {
+          "codigo": "O-AMO-001",
+          "nombre": "AMOLADORA 20CM",
+          "descripcion": "string",
+          "precio_oferta": 160,
+          "puntos": 16,
+          "activo": true
+        }
+      ],
+      "descuentos": [
+        {
+          "codigo": "D-AMO-001",
+          "nombre": "AMOLADORA DESC",
+          "descripcion": "EEEEE",
+          "precio_min": 140,
+          "activo": true
+        }
+      ],
+      "activo": true
+    },
+    {
+      "codigo": "P-MAR-006",
+      "nombre": "MARTILLO",
+      "descripcion": "MARTILLO",
+      "precio_compra": "30.00",
+      "precio_mayorista": "40.00",
+      "precio_minorista": "50.00",
+      "imageURL": "https://www.coimfer.com.ar/upload_imagenes/1810/22360_1.jpg",
+      "dimensiones": "25CM",
+      "peso": "1.5KG",
+      "material": "ACERO",
+      "color": "AMARILLO",
+      "paisOrigen": "ESPANA",
+      "marca": {
+        "codigo": "M-ESP-001",
+        "nombre": "spanish"
+      },
+      "categorias": [
+        {
+          "codigo": "C-MAR-001",
+          "nombre": "MARTILLOS"
+        },
+        {
+          "codigo": "C-HER-001",
+          "nombre": "HERRAMIENTAS"
+        }
+      ],
+      "ofertas": [
+        {
+          "codigo": "O-MAR-001",
+          "nombre": "MARTILLO 25CM",
+          "descripcion": "string",
+          "precio_oferta": 45,
+          "puntos": 4,
+          "activo": true
+        }
+      ],
+      "descuentos": [
+        {
+          "codigo": "D-MAR-001",
+          "nombre": "MARTILLO DESC",
+          "descripcion": "FFFFF",
+          "precio_min": 35,
+          "activo": true
+        }
+      ],
+      "activo": true
+    }
+  ],
+  "ofertas": [
+    {
+      "codigo": "O-CLA-001",
+      "nombre": "CLAVOS 10",
+      "descripcion": "string",
+      "precio_oferta": 140,
+      "puntos": 14,
+      "activo": true,
+      "producto": {
+        "codigo": "P-CLA-001",
+        "nombre": "CLAVOS",
+        "descripcion": "CLAVOS DE ACERO",
+        "precio_compra": "90.00",
+        "precio_mayorista": "120.00",
+        "precio_minorista": "150.00",
+        "imageURL": "https://www.pronor.com.ar/images/1666877124740.jpg",
+        "dimensiones": "10CM",
+        "peso": "1G",
+        "material": "ACERO",
+        "color": "METAL",
+        "paisOrigen": "ARGENTINA",
+        "activo": true
+      }
+    },
+    {
+      "codigo": "O-TUB-001",
+      "nombre": "TUBERIA 5M",
+      "descripcion": "string",
+      "precio_oferta": 70,
+      "puntos": 7,
+      "activo": true,
+      "producto": {
+        "codigo": "P-TUB-002",
+        "nombre": "TUBERIA",
+        "descripcion": "TUBERIA DE PVC",
+        "precio_compra": "40.00",
+        "precio_mayorista": "60.00",
+        "precio_minorista": "70.00",
+        "imageURL": "https://www.mersrl.com.ar/img/subgroups/15/medium_tubos-de-pvc-clase-10-junta-elastica-9294.jpg",
+        "dimensiones": "5M",
+        "peso": "2KG",
+        "material": "PVC",
+        "color": "BLANCO",
+        "paisOrigen": "MEXICO",
+        "activo": true
+      }
+    },
+    {
+      "codigo": "O-LLA-001",
+      "nombre": "LLAVE 15CM",
+      "descripcion": "string",
+      "precio_oferta": 110,
+      "puntos": 11,
+      "activo": true,
+      "producto": {
+        "codigo": "P-LLA-003",
+        "nombre": "LLAVE INGLESA",
+        "descripcion": "LLAVE AJUSTABLE",
+        "precio_compra": "70.00",
+        "precio_mayorista": "100.00",
+        "precio_minorista": "110.00",
+        "imageURL": "https://www.wurth.com.ar/blog/wp-content/uploads/2022/10/90715-221-12-scaled-e1665593239403.jpg",
+        "dimensiones": "15CM",
+        "peso": "500G",
+        "material": "ACERO",
+        "color": "PLATA",
+        "paisOrigen": "ESPAÑA",
+        "activo": true
+      }
+    },
+    {
+      "codigo": "O-MOT-001",
+      "nombre": "MOTOSIERRA 50CM",
+      "descripcion": "string",
+      "precio_oferta": 280,
+      "puntos": 28,
+      "activo": true,
+      "producto": {
+        "codigo": "P-MOT-004",
+        "nombre": "MOTOSIERRA ELECTRICA",
+        "descripcion": "MOTOSIERRA ELECTRICA",
+        "precio_compra": "200.00",
+        "precio_mayorista": "250.00",
+        "precio_minorista": "300.00",
+        "imageURL": "https://petenattiar.vtexassets.com/arquivos/ids/203455/MOTOSIERRA-ELECTRICA-ByD-GK1740-1850W-ESPADA-40CM.jpg?v=637932450648700000",
+        "dimensiones": "50CM",
+        "peso": "5KG",
+        "material": "ACERO",
+        "color": "VERDE",
+        "paisOrigen": "ALEMANIA",
+        "activo": true
+      }
+    },
+    {
+      "codigo": "O-AMO-001",
+      "nombre": "AMOLADORA 20CM",
+      "descripcion": "string",
+      "precio_oferta": 160,
+      "puntos": 16,
+      "activo": true,
+      "producto": {
+        "codigo": "P-AMO-005",
+        "nombre": "AMOLADORA",
+        "descripcion": "AMOLADORA",
+        "precio_compra": "120.00",
+        "precio_mayorista": "150.00",
+        "precio_minorista": "180.00",
+        "imageURL": "https://pintureriasagitario.com.ar/wp-content/uploads/2023/08/GW850.jpg",
+        "dimensiones": "20CM",
+        "peso": "3KG",
+        "material": "METAL",
+        "color": "ROJO",
+        "paisOrigen": "CHINA",
+        "activo": true
+      }
+    },
+    {
+  "codigo": "O-MAR-001",
+  "nombre": "MARTILLO 25CM",
+  "descripcion": "string",
+  "precio_oferta": 45,
+  "puntos": 4,
+  "activo": true,
+  "producto": {
+    "codigo": "P-MAR-006",
+    "nombre": "MARTILLO",
+    "descripcion": "MARTILLO",
+    "precio_compra": "30.00",
+    "precio_mayorista": "40.00",
+    "precio_minorista": "50.00",
+    "imageURL": "https://www.coimfer.com.ar/upload_imagenes/1810/22360_1.jpg",
+    "dimensiones": "25CM",
+    "peso": "1.5KG",
+    "material": "ACERO",
+    "color": "AMARILLO",
+    "paisOrigen": "ESPANA",
+    "activo": true
+  }
+}
+  ]
+}
+  

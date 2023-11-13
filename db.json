@@ -239,54 +239,6 @@
         }
       ],
       "activo": true
-    },
-    {
-      "codigo": "P-MAR-006",
-      "nombre": "MARTILLO",
-      "descripcion": "MARTILLO",
-      "precio_compra": "30.00",
-      "precio_mayorista": "40.00",
-      "precio_minorista": "50.00",
-      "imageURL": "https://www.coimfer.com.ar/upload_imagenes/1810/22360_1.jpg",
-      "dimensiones": "25CM",
-      "peso": "1.5KG",
-      "material": "ACERO",
-      "color": "AMARILLO",
-      "paisOrigen": "ESPANA",
-      "marca": {
-        "codigo": "M-ESP-001",
-        "nombre": "spanish"
-      },
-      "categorias": [
-        {
-          "codigo": "C-MAR-001",
-          "nombre": "MARTILLOS"
-        },
-        {
-          "codigo": "C-HER-001",
-          "nombre": "HERRAMIENTAS"
-        }
-      ],
-      "ofertas": [
-        {
-          "codigo": "O-MAR-001",
-          "nombre": "MARTILLO 25CM",
-          "descripcion": "string",
-          "precio_oferta": 45,
-          "puntos": 4,
-          "activo": true
-        }
-      ],
-      "descuentos": [
-        {
-          "codigo": "D-MAR-001",
-          "nombre": "MARTILLO DESC",
-          "descripcion": "FFFFF",
-          "precio_min": 35,
-          "activo": true
-        }
-      ],
-      "activo": true
     }
   ],
   "ofertas": [
@@ -405,28 +357,7 @@
         "activo": true
       }
     },
-    {
-  "codigo": "O-MAR-001",
-  "nombre": "MARTILLO 25CM",
-  "descripcion": "string",
-  "precio_oferta": 45,
-  "puntos": 4,
-  "activo": true,
-  "producto": {
-    "codigo": "P-MAR-006",
-    "nombre": "MARTILLO",
-    "descripcion": "MARTILLO",
-    "precio_compra": "30.00",
-    "precio_mayorista": "40.00",
-    "precio_minorista": "50.00",
-    "imageURL": "https://www.coimfer.com.ar/upload_imagenes/1810/22360_1.jpg",
-    "dimensiones": "25CM",
-    "peso": "1.5KG",
-    "material": "ACERO",
-    "color": "AMARILLO",
-    "paisOrigen": "ESPANA",
-    "activo": true
-  }
+  
 }
   ]
 }

@@ -191,54 +191,6 @@
         }
       ],
       "activo": true
-    },
-    {
-      "codigo": "P-AMO-005",
-      "nombre": "AMOLADORA",
-      "descripcion": "AMOLADORA",
-      "precio_compra": "120.00",
-      "precio_mayorista": "150.00",
-      "precio_minorista": "180.00",
-      "imageURL": "https://pintureriasagitario.com.ar/wp-content/uploads/2023/08/GW850.jpg",
-      "dimensiones": "20CM",
-      "peso": "3KG",
-      "material": "METAL",
-      "color": "ROJO",
-      "paisOrigen": "CHINA",
-      "marca": {
-        "codigo": "M-CHI-001",
-        "nombre": "china"
-      },
-      "categorias": [
-        {
-          "codigo": "C-AMA-001",
-          "nombre": "AMOLADORAS"
-        },
-        {
-          "codigo": "C-HER-002",
-          "nombre": "HERRAMIENTAS ELECTRICAS"
-        }
-      ],
-      "ofertas": [
-        {
-          "codigo": "O-AMO-001",
-          "nombre": "AMOLADORA 20CM",
-          "descripcion": "string",
-          "precio_oferta": 160,
-          "puntos": 16,
-          "activo": true
-        }
-      ],
-      "descuentos": [
-        {
-          "codigo": "D-AMO-001",
-          "nombre": "AMOLADORA DESC",
-          "descripcion": "EEEEE",
-          "precio_min": 140,
-          "activo": true
-        }
-      ],
-      "activo": true
     }
   ],
   "ofertas": [
@@ -333,32 +285,7 @@
         "paisOrigen": "ALEMANIA",
         "activo": true
       }
-    },
-    {
-      "codigo": "O-AMO-001",
-      "nombre": "AMOLADORA 20CM",
-      "descripcion": "string",
-      "precio_oferta": 160,
-      "puntos": 16,
-      "activo": true,
-      "producto": {
-        "codigo": "P-AMO-005",
-        "nombre": "AMOLADORA",
-        "descripcion": "AMOLADORA",
-        "precio_compra": "120.00",
-        "precio_mayorista": "150.00",
-        "precio_minorista": "180.00",
-        "imageURL": "https://pintureriasagitario.com.ar/wp-content/uploads/2023/08/GW850.jpg",
-        "dimensiones": "20CM",
-        "peso": "3KG",
-        "material": "METAL",
-        "color": "ROJO",
-        "paisOrigen": "CHINA",
-        "activo": true
-      }
-    },
-  
-}
+    }
   ]
 }
   
